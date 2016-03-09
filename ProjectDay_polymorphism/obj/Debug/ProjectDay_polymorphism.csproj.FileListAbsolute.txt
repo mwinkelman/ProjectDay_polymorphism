@@ -1,0 +1,6 @@
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week10\ProjectDay_polymorphism\ProjectDay_polymorphism\bin\Debug\ProjectDay_polymorphism.exe.config
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week10\ProjectDay_polymorphism\ProjectDay_polymorphism\bin\Debug\ProjectDay_polymorphism.exe
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week10\ProjectDay_polymorphism\ProjectDay_polymorphism\bin\Debug\ProjectDay_polymorphism.pdb
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week10\ProjectDay_polymorphism\ProjectDay_polymorphism\obj\Debug\ProjectDay_polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week10\ProjectDay_polymorphism\ProjectDay_polymorphism\obj\Debug\ProjectDay_polymorphism.exe
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week10\ProjectDay_polymorphism\ProjectDay_polymorphism\obj\Debug\ProjectDay_polymorphism.pdb
